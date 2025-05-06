@@ -92,17 +92,3 @@ This script estimates depth from an Orbbec Astra 2 depth camera using a deep lea
 ## Conclusion
 
 This script enables accurate depth measurement using AI and an Orbbec Astra 2 depth camera with multiple calibration points. By continuously adding calibration data, accuracy improves over time. This tool is valuable for applications in robotics, augmented reality, and distance estimation.
-
----
-
-### Author:
-
-[Your Name]
-
-### License:
-
-[Specify License Here]
-
-### Contact:
-
-[Your Contact Information]
